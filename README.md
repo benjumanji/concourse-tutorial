@@ -929,4 +929,3 @@ vagrant-cloud
 ```
 
 pointless
-extra pointless
